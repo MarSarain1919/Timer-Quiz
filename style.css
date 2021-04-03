@@ -1,0 +1,73 @@
+:root {
+    --lightgreen:#beffe6;
+    --darkgreen: rgb(68, 211, 151);
+    --textlight: rgb(225, 255, 242);
+    --textdark: rgb(109, 124, 118);
+}
+
+body {
+    background-color: var(--lightgreen); 
+}
+
+#viewHighScore {
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+#timer {
+    font-size: 20px;
+    padding: 7px;
+}
+
+h1, 
+h2 {
+    color: var(--textdark);
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    font-family: 'Archivo', sans-serif;
+    color: var(--darkgreen);
+}
+
+a:hover {
+    color: #99B8BF;
+    font-family: 'Archivo', sans-serif;
+}
+
+.btn {
+    background-color: var(--darkgreen);
+}
+
+.btn:hover {
+    background-color: var(--textdark);
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+#finalScore {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Archivo', sans-serif;
+}
+
+p {
+    font-family: 'Archivo', sans-serif;
+    color: var(--textdark);
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #4D5159;
+}
