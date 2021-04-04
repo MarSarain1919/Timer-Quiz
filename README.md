@@ -23,4 +23,4 @@ Live URL: https://marsarain1919.github.io/Timer-Quiz/
 
 GitHub Repository: https://github.com/MarSarain1919/Timer-Quiz.git
 
-Screenshot:
+Screenshot: https://github.com/MarSarain1919/Timer-Quiz/issues/1#issue-849774085
